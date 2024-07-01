@@ -5,13 +5,13 @@ function Footer() {
     <div className="flex flex-col gap-12 md:flex-row md:justify-between">
       <ul className="flex font-lato text-gray-400 gap-6 justify-center">
         <li>
-          <a href="#">Github</a>
+          <a href="#">Facebook</a>
         </li>
         <li>
           <a href="#">Twitter</a>
         </li>
         <li>
-          <a href="#">LinkedIn</a>
+          <a href="#">Instagram</a>
         </li>
       </ul>
       <div className="flex gap-3">
